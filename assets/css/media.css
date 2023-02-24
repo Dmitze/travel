@@ -1,0 +1,19 @@
+@media (max-width: 768px)
+
+/* mobile */
+
+@media (min-width: 576px) and (max-width: 767px) { 
+
+ }
+/* Стили для ноутбуков и компьютеров с экранами в диапазоне 992px - 1199px */
+@media (min-width: 768px) and (max-width: 991px) { 
+
+ }
+/* Стили для устройств с маленьким экраном, размерами 768px - 991px (планшеты и подобные) */
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+ }
+/* Стили для устройств с большой шириной экрана >1200px */
+@media (min-width: 1200px) { 
+
+ }
